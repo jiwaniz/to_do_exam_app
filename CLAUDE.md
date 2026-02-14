@@ -208,3 +208,10 @@ Wait for consent; never auto-create ADRs. Group related decisions (stacks, authe
 
 ## Code Standards
 See `.specify/memory/constitution.md` for code quality, testing, performance, security, and architecture principles.
+
+## Active Technologies
+- Python 3.10+ + None (standard library only per constitution) (001-todo-console-app)
+- Local JSON file (`todos.json`) (001-todo-console-app)
+
+## Recent Changes
+- 001-todo-console-app: Added Python 3.10+ + None (standard library only per constitution)
